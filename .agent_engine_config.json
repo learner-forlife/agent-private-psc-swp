@@ -1,0 +1,12 @@
+{
+    "psc_interface_config": {
+        "network_attachment": "projects/[project-id]/regions/asia-south1/networkAttachments/agent-engine-attachment",
+    "dns_peering_configs": [
+                {
+                    "domain": "psc.com",
+                    "target_project": "[project-id]",
+                    "target_network": "test-vpc-1"
+                }
+    ]
+    }
+}
