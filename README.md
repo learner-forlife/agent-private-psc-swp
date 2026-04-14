@@ -1,7 +1,9 @@
 # SWG configuration #
-Deployed in Explicit routing mode
-My policy had a match on --> host().endsWith('wikipedia.org')
-The IP of web proxy was 10.10.10.2
+Deployed in Explicit routing mode  
+
+My policy had a match on --> host().endsWith('wikipedia.org')  
+
+The IP of web proxy was 10.10.10.2  
 
 # Network Attachment #
 Network attachment
