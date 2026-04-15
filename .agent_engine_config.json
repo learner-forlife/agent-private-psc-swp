@@ -1,6 +1,6 @@
 {
     "psc_interface_config": {
-        "network_attachment": "projects/[project-id]/regions/asia-south1/networkAttachments/agent-engine-attachment",
+        "network_attachment": "projects/[project-id]/regions/asia-south1/networkAttachments/[name-of-attachment]",
     "dns_peering_configs": [
                 {
                     "domain": "psc.com",
