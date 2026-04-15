@@ -1,3 +1,12 @@
+# Topology #
+https://github.com/user-attachments/assets/dacded82-2fad-4d87-8c4d-22007f00c835
+
+# Problem Statement #
+- Agent running in agent engine
+- Simplest agent to go and get news
+- Agent should only get news from one given website which user defines . Dont just go to any random site on Internet to get me the news
+- When agent go out to internet , your IP should be fixed public IP
+  
 # SWG configuration #
 Deployed in Explicit routing mode  
 
